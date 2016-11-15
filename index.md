@@ -4,4 +4,6 @@ layout: site
 
 # My Website
 
-test
+hello 
+[blog](/blog/_posts/2016-11-15.md)
+
