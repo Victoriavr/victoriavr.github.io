@@ -1,4 +1,2 @@
----
----
-# my site
-welcome
+layout
+
